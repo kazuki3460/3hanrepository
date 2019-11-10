@@ -11,6 +11,11 @@ public class levelupscript : MonoBehaviour
     public GameObject level4;
     public GameObject level5;
 
+    public GameObject serif1;
+    public GameObject serif2;
+    public GameObject serif3;
+    public GameObject serif4;
+
     public GameObject comment1;
     public GameObject comment2;
     public GameObject comment3;
@@ -44,21 +49,25 @@ public class levelupscript : MonoBehaviour
         {
             comment1.SetActive(true);
             level2.SetActive(true);
+            serif1.SetActive(true);
         }
         if (stsum == 10)
         {
             comment2.SetActive(true);
             level3.SetActive(true);
+            serif2.SetActive(true);
         }
         if (stsum == 15)
         {
             comment3.SetActive(true);
             level4.SetActive(true);
+            serif3.SetActive(true);
         }
         if (stsum == 20)
         {
             comment4.SetActive(true);
             level5.SetActive(true);
+            serif4.SetActive(true);
         }
         
     }

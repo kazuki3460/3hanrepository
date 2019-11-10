@@ -4,7 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/HomeScene.unity
@@ -28,75 +27,12 @@ EditorBuildSettings:
     path: Assets/Scenes/StampseatScene.unity
     guid: 390686e4078f3c2468996d70d05fa310
   - enabled: 1
-    path: Assets/Scenes/LevelupScene.unity
-    guid: 55a86ec107921d24d9723d339b267aeb
+    path: Assets/Scenes/LevelUpScene.unity
+    guid: 6ef43f0c42ed6774ca32570c6230f882
   - enabled: 1
     path: Assets/Scenes/GuideScene.unity
     guid: b5bd0a1b8f7344442b6bc49a2331bc44
   - enabled: 1
     path: Assets/Scenes/ByeByeScene.unity
     guid: e5e11a73f37384a49bb502467db1ae72
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-=======
-  m_Scenes: []
->>>>>>> 71cbf31ff1cda57ab1a2d934562f78771ddad8cb
   m_configObjects: {}
