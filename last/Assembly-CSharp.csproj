@@ -54,12 +54,19 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\arrive.cs" />
+     <Compile Include="Assets\Scripts\byebyescript.cs" />
+     <Compile Include="Assets\Scripts\Explainscript.cs" />
+     <Compile Include="Assets\Scripts\guidescript.cs" />
+     <Compile Include="Assets\Scripts\Homescript.cs" />
+     <Compile Include="Assets\Scripts\levelupscript.cs" />
      <Compile Include="Assets\Scripts\stampscript.cs" />
-     <Compile Include="Assets\Scripts\stampseat.cs" />
      <Compile Include="Assets\Scripts\stampseat2.cs" />
+     <Compile Include="Assets\Scripts\StationNameAlphabet.cs" />
      <Compile Include="Assets\Scripts\tamesi.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
+     <Compile Include="Assets\Scripts\Time.cs" />
      <Compile Include="Assets\Terasurware\Classes\Entity_Sheet1.cs" />
+     <Compile Include="Assets\Terasurware\Classes\Entity_Sheet2.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/かずき/Desktop/game/last/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

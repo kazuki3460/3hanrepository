@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Terasurware\Classes\Editor\takeuchi_importer.cs" />
+     <Compile Include="Assets\Terasurware\Classes\Editor\time_importer.cs" />
      <Compile Include="Assets\Terasurware\Editor\ExcelImporterMaker.cs" />
      <None Include="Assets\Terasurware\Editor\ExportTemplate.txt" />
      <None Include="Assets\Terasurware\Editor\ExportTemplate2.txt" />
